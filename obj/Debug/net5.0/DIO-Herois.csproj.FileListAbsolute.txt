@@ -1,0 +1,16 @@
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\DIO-Herois.exe
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\DIO-Herois.deps.json
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\DIO-Herois.runtimeconfig.json
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\DIO-Herois.runtimeconfig.dev.json
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\DIO-Herois.dll
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\ref\DIO-Herois.dll
+C:\Projetos\DIO-Herois\bin\Debug\net5.0\DIO-Herois.pdb
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.csproj.AssemblyReference.cache
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.AssemblyInfoInputs.cache
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.AssemblyInfo.cs
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.dll
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\ref\DIO-Herois.dll
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.pdb
+C:\Projetos\DIO-Herois\obj\Debug\net5.0\DIO-Herois.genruntimeconfig.cache
