@@ -8,14 +8,16 @@ namespace DIO_Herois
 
         public string AtualizarHeroi(Heroi atualizarHeroi, int id)
         {
-            throw new System.NotImplementedException();
+            listaHeroi[id] = atualizarHeroi;
+
+            return "Dados atualizados com sucesso";
         }
 
         public string CadastrarHeroi(Heroi heroi)
         {
             listaHeroi.Add(heroi);
 
-            return "Heroi cadastrado com sucesso.";
+           return "Heroi registrado com sucesso.";
         }
 
         public string ExcluirHeroi(int id)
